@@ -1,7 +1,7 @@
 
 #i'm just beginner and i found this idea so i start coding for fun and learning new stuff :)
-#DISCORD : 0xSp3ar#5560
-#Twiter : https://twitter.com/0xsp3ar
+#DISCORD : notbvdr
+#Twiter : https://x.com/notbvdr
 #---------------------------------------------------------#
 def seofriendly(seo):
   wordseo=""
@@ -41,3 +41,4 @@ else:
     
 
     
+
